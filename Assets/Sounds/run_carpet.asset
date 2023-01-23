@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1198a225977d44bbe266de1a76af61, type: 3}
+  m_Name: run_carpet
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: a218074674cdc4741909bc846e75436f, type: 3}
+  - {fileID: 8300000, guid: 841f43db272ca3c41bf44c2b79c8b53f, type: 3}
+  - {fileID: 8300000, guid: 0d475577aa7c2e047932ee6362f7d520, type: 3}
+  - {fileID: 8300000, guid: 967d385677368134193300c647c5fed4, type: 3}
+  pitchOffset: 1.25
+  pitchVariation: 0.198
+  mixingMultiplier: 1

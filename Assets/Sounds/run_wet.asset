@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1198a225977d44bbe266de1a76af61, type: 3}
+  m_Name: run_wet
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 3a6f4599a0e92fa4c8f76cc52e4fe899, type: 3}
+  - {fileID: 8300000, guid: 69ab815259d2824409d4eae4244a440d, type: 3}
+  - {fileID: 8300000, guid: 983fb20bbae0bbb4288bb16270bc995a, type: 3}
+  - {fileID: 8300000, guid: 8a67cb44824e4034ea56deca25b5196d, type: 3}
+  - {fileID: 8300000, guid: a7bf299e9e54ca8469192631a3c1da98, type: 3}
+  - {fileID: 8300000, guid: 3b8f3bb1e42c80242a39c89cabe53db4, type: 3}
+  pitchOffset: 1
+  pitchVariation: 0.1
+  mixingMultiplier: 0.7
